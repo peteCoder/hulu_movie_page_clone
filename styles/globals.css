@@ -2,10 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-
+/* #6202A */
 @layer base{
     body{
-        @apply bg-[#06202A] text-gray-300
+        @apply bg-[#042431] text-gray-300
     };
 };
 

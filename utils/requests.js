@@ -3,7 +3,7 @@ export const BASE_URL = "https://image.tmdb.org/t/p/original/";
 
 export default {
     fetchTrending: {
-        title: "Treding",
+        title: "Trending",
         url: `/trending/all/week?api_key=${API_KEY}&language=en-US`
     },
     fetchTopRated: {
